@@ -16,6 +16,7 @@
 | [0141-linked-list-cycle](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0202-happy-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 ## String
@@ -42,4 +43,21 @@
 | [0141-linked-list-cycle](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0202-happy-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
