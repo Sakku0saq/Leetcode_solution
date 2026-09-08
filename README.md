@@ -10,6 +10,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,6 +21,7 @@
 | [0234-palindrome-linked-list](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -66,6 +68,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
