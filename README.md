@@ -37,6 +37,7 @@
 | [0141-linked-list-cycle](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0202-happy-number/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +75,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 <!---LeetCode Topics End-->
