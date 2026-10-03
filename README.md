@@ -29,6 +29,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1108-defanging-an-ip-address](https://github.com/Sakku0saq/Leetcode_solution/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1528-shuffle-string](https://github.com/Sakku0saq/Leetcode_solution/tree/main/1528-shuffle-string/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1528-shuffle-string](https://github.com/Sakku0saq/Leetcode_solution/tree/main/1528-shuffle-string/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
