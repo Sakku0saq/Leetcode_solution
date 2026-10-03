@@ -28,6 +28,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [1108-defanging-an-ip-address](https://github.com/Sakku0saq/Leetcode_solution/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
