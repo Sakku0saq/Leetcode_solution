@@ -29,6 +29,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Sakku0saq/Leetcode_solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Sakku0saq/Leetcode_solution/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1528-shuffle-string](https://github.com/Sakku0saq/Leetcode_solution/tree/main/1528-shuffle-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Sakku0saq/Leetcode_solution/tree/main/1678-goal-parser-interpretation/) | Easy |
@@ -89,6 +90,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Sakku0saq/Leetcode_solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -117,4 +119,5 @@
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Sakku0saq/Leetcode_solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
