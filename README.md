@@ -40,6 +40,7 @@
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@
 | [0202-happy-number](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +74,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/Sakku0saq/Leetcode_solution/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +84,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
