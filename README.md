@@ -41,6 +41,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Sakku0saq/Leetcode_solution/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0202-happy-number/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Sakku0saq/Leetcode_solution/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
