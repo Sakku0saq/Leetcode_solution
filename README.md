@@ -36,6 +36,7 @@
 | [1528-shuffle-string](https://github.com/Sakku0saq/Leetcode_solution/tree/main/1528-shuffle-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Sakku0saq/Leetcode_solution/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Sakku0saq/Leetcode_solution/tree/main/1773-count-items-matching-a-rule/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -62,6 +63,7 @@
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0202-happy-number/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sakku0saq/Leetcode_solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2409-count-days-spent-together](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Sakku0saq/Leetcode_solution/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
