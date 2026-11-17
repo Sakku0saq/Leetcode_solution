@@ -24,6 +24,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/Sakku0saq/Leetcode_solution/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +152,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sakku0saq/Leetcode_solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sakku0saq/Leetcode_solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
