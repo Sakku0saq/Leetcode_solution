@@ -41,6 +41,7 @@
 | [2409-count-days-spent-together](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
