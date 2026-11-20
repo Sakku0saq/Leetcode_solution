@@ -10,6 +10,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sakku0saq/Leetcode_solution/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -70,6 +71,7 @@
 | [0013-roman-to-integer](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0202-happy-number](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0202-happy-number/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sakku0saq/Leetcode_solution/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sakku0saq/Leetcode_solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sakku0saq/Leetcode_solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
