@@ -74,6 +74,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sakku0saq/Leetcode_solution/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sakku0saq/Leetcode_solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2409-count-days-spent-together/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sakku0saq/Leetcode_solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sakku0saq/Leetcode_solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Sakku0saq/Leetcode_solution/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Floyd's Cycle Finding Algorithm
@@ -103,6 +104,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sakku0saq/Leetcode_solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sakku0saq/Leetcode_solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sakku0saq/Leetcode_solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sakku0saq/Leetcode_solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -143,6 +145,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sakku0saq/Leetcode_solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sakku0saq/Leetcode_solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -167,6 +170,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sakku0saq/Leetcode_solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sakku0saq/Leetcode_solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,4 +241,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sakku0saq/Leetcode_solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sakku0saq/Leetcode_solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
