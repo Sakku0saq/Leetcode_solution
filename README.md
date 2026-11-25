@@ -8,6 +8,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sakku0saq/Leetcode_solution/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -136,6 +137,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Sakku0saq/Leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
